@@ -24,7 +24,7 @@
       "value": "Azure12345"
     },
     "modulesUrl": {
-      "value": "https://github.com/Azure/azure-quickstart-templates/raw/master/dsc-extension-iis-server-windows-vm/ContosoWebsite.ps1.zip"
+      "value": "https://github.com/mgreenegit/ConfigurationTestExample/raw/master/ContosoWebsite.ps1.zip"
     },
     "configurationFunction": {
       "value": "ContosoWebsite.ps1\\ContosoWebsite"
